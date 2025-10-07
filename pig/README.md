@@ -1,4 +1,4 @@
-(The file `/workspaces/Python_projects/pig/README.md` exists, but is empty)
+
 # Pig — Dice Game
 
 Simple command-line implementation of the classic dice game Pig. This program supports 2–4 players and plays until a player reaches 50 points.
